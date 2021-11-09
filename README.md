@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Piotrek
-#### Beginner Front End Developer and sport enthusiast 
+#### Front End Developer and sport enthusiast 
 
 - 🔭 I’m currently working on my front end skills development
 - 🌱 I’m currently learning TypeScript
